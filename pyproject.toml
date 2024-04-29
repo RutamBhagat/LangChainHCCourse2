@@ -8,6 +8,15 @@ packages = [{include = "course_2"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+langchain = "^0.1.16"
+langchain-openai = "^0.1.4"
+python-dotenv = "^1.0.1"
+pypdf = "^4.2.0"
+yt-dlp = "^2024.4.9"
+pydub = "^0.25.1"
+ffmpeg = "^1.4"
+ffprobe = "^0.5"
+bs4 = "^0.0.2"
 
 
 [tool.poetry.group.dev.dependencies]
