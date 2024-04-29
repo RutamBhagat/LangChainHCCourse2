@@ -17,6 +17,7 @@ pydub = "^0.25.1"
 ffmpeg = "^1.4"
 ffprobe = "^0.5"
 bs4 = "^0.0.2"
+chromadb = "^0.5.0"
 
 
 [tool.poetry.group.dev.dependencies]
